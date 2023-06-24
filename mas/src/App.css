@@ -1,9 +1,35 @@
 .bd-navbar{
-  background:#FBFBFDCC;
+  background:#161617cc;
   font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
   font-size: 12px;
 }
 .page-info{
   font-size:14xp;
   padding:12px 0px;
+}
+.pbContent {
+  height:580px;
+  background:#fbfbfd;
+}
+.bannerCaptionWrapper{
+  padding-top:47px;
+}
+.bannerCaptionWrapper h2{
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 600;
+  letter-spacing: -.005em;
+}
+.bannerCaptionWrapper h3{
+  font-size: 27px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: .004em;
+}
+.pbImage {
+  width: 3008px;
+  height: 624px;
+}
+.nav-link {
+  color:#ffffffcc;
 }
